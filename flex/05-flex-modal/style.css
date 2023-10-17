@@ -82,6 +82,10 @@ button.cancel {
   justify-content: space-between;
 }
 
+.prompt {
+  align-items: center;
+}
+
 .container {
   flex-direction: column;
   gap: 8px;
